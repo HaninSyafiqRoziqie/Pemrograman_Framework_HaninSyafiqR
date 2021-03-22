@@ -8,3 +8,4 @@ Berisi tentang praktikum dan tugas Mata Kuliah Pemrograman Berbasis Framework
 4. Pertemuan 4 : https://youtu.be/AN7gAl3wWwQ	
 5. Pertemuan 5 : https://youtu.be/dgtqeqm9CJA
 6. Pertemuan 6 : https://youtu.be/juPsXyAzLRM
+6. Pertemuan 7 : https://youtu.be/knepZXjCVq8
