@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Panasonic H66A6",
+    "brand": "Stok : 5",
+    "price": 1500000,
+    "description": "AC Panasonic 1.",
+    "image": "1.jpg"
+  },
+  {
+    "title": "Panasonic H5161617",
+    "brand": "Stok : 8",
+    "price": 2700000,
+    "description": "AC Panasonic 2.",
+    "image": "2.jpg"
+  },
+  {
+    "title": "Panasonic U61716717",
+    "brand": "Stok : 4",
+    "price": 1950000,
+    "description": "AC Panasonic 3.",
+    "image": "3.jpg"
+  },
+  {
+    "title": "Panasonic N7871919",
+    "brand": "Stok : 20",
+    "price": 2800000,
+    "description": "AC Panasonic 4.",
+    "image": "4.jpg"
+  },
+  {
+    "title": "Panasonic M67589",
+    "brand": "Stok : 19",
+    "price": 1600000,
+    "description": "AC Panasonic 5.",
+    "image": "5.jpg"
+  },
+  {
+    "title": "Panasonic L16178181",
+    "brand": "Stok : 13",
+    "price": 1450000,
+    "description": "AC Panasonic 6.",
+    "image": "6.jpg"
+  },
+  {
+    "title": "Samsung N7871919",
+    "brand": "Stok : 24",
+    "price": 2800000,
+    "description": "AC Samsung 1.",
+    "image": "13.jpg"
+  },
+  {
+    "title": "Samsung M67589",
+    "brand": "Stok : 13",
+    "price": 1600000,
+    "description": "AC Samsung 2.",
+    "image": "14.jpg"
+  },
+  {
+    "title": "Samsung L16178181",
+    "brand": "Stok : 12",
+    "price": 1450000,
+    "description": "AC Samsung 3.",
+    "image": "15.jpg"
+  },
+  {
+    "title": "LG N7871919",
+    "brand": "Stok : 14",
+    "price": 2800000,
+    "description": "AC LG 1.",
+    "image": "16.jpg"
+  },
+  {
+    "title": "LG M67589",
+    "brand": "Stok : 17",
+    "price": 1600000,
+    "description": "AC LG 2.",
+    "image": "17.jpg"
+  },
+  {
+    "title": "LG L1617181",
+    "brand": "Stok : 19",
+    "price": 1450000,
+    "description": "AC LG 3.",
+    "image": "18.jpg"
+  }
+]
