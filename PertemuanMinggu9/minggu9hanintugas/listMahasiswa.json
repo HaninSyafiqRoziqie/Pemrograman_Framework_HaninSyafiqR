@@ -8,6 +8,15 @@
       "hp": "081621751",
       "angkatan": "18",
       "status": "aktif"
+    },
+    {
+      "id": 1618302315391,
+      "nim": "1234455",
+      "nama": "asda",
+      "alamat": "adasas",
+      "hp": "90088",
+      "angkatan": "14",
+      "status": "aktif"
     }
   ]
 }
